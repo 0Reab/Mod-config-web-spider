@@ -6,10 +6,10 @@ From:<br>
 `https://reforger.armaplatform.com/workshop/595F2BF2F44836FB-RHS-StatusQuo`<br>
 or just the name -> `RHS Status Quo`<br>
 To:<br>
-`{<br>
-    "modId": "595F2BF2F44836FB",<br>
-    "name": "RHS - Status Quo",<br>
-    "version": "0.11.4250"<br>
+`{
+    "modId": "595F2BF2F44836FB",
+    "name": "RHS - Status Quo",
+    "version": "0.11.4250"
 }`<br>
 
 ## Usage:
