@@ -2,15 +2,15 @@
 Creates json config mod list out of a basic name/url mod list for arma reforger config.json mod list.
 
 ## Example:
-From:
-`https://reforger.armaplatform.com/workshop/595F2BF2F44836FB-RHS-StatusQuo`
-or just the name -> `RHS Status Quo`
-To:
-`{
-    "modId": "595F2BF2F44836FB",
-    "name": "RHS - Status Quo",
-    "version": "0.11.4250"
-}`
+From:<br>
+`https://reforger.armaplatform.com/workshop/595F2BF2F44836FB-RHS-StatusQuo`<br>
+or just the name -> `RHS Status Quo`<br>
+To:<br>
+`{<br>
+    "modId": "595F2BF2F44836FB",<br>
+    "name": "RHS - Status Quo",<br>
+    "version": "0.11.4250"<br>
+}`<br>
 
 ## Usage:
 1. Change file_path in the script to your mod list text file.
