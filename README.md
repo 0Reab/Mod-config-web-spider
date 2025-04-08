@@ -2,9 +2,9 @@
 Creates json config mod list out of a basic name/url mod list for arma reforger config.json mod list.
 
 ## Example:
-From:<br>
+From:<br><br>
 `https://reforger.armaplatform.com/workshop/595F2BF2F44836FB-RHS-StatusQuo`<br>
-or just the name -> `RHS Status Quo`<br>
+or just the name -> `RHS Status Quo`<br><br>
 To:<br>
 `{
     "modId": "595F2BF2F44836FB",
