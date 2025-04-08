@@ -6,7 +6,7 @@ Creates json config mod list out of a basic name/url mod list
 2. `pip install requests beautifulsoup4`
 3. Run script `python mod_config_spider.py`
 
-
+<br>
 The mod list file can contain either exact mod names (as shown on the workshop) or direct URLs to mod pages.<br>
 Numbering is optional.
 
