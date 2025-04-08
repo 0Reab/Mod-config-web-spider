@@ -7,8 +7,8 @@ Creates json config mod list out of a basic name/url mod list
 3. Run script `python mod_config_spider.py`
 
 
-The mod list file can contain either exact mod names (as shown on the workshop) or direct URLs to mod pages.
+The mod list file can contain either exact mod names (as shown on the workshop) or direct URLs to mod pages.<b>
 Numbering is optional.
 
-When you run the script, it’ll ask what type of list entries you're using. 
+When you run the script, it’ll ask what type of list entries you're using.<b>
 At the end, you'll be asked if you want to open the mod pages in your browser to double-check them.
